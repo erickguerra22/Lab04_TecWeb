@@ -1,0 +1,25 @@
+body{
+	margin: 0;
+}
+
+div{
+	width: 100vw;
+    height: 100vh;
+    background: radial-gradient(ellipse at 50% 50%, black 50%, rgba(51, 51, 51, 0) 50.5%) 48% 15%/3% 10%,
+    radial-gradient(ellipse at 50% 50%, black 50%, rgba(51, 51, 51, 0) 50.5%) 52% 15%/3% 10%,
+    radial-gradient(ellipse at 110% 85%,white 50%,rgba(51, 51, 51, 0) 50.5%) 43% -55.5%/12% 77.8%,
+    radial-gradient(ellipse at -10% 85%,white 50%,rgba(51, 51, 51, 0) 50.5%) 57% -55.5%/12% 77.8%,
+    radial-gradient(ellipse at 50% 83%,white 50%,rgba(51, 51, 51, 0) 50.5%) 50% -50%/9% 77%,
+    radial-gradient(ellipse at 50% 83%,#E0E0E0 50%,rgba(51, 51, 51, 0) 50.5%) 50% -53.7%/26% 78%,
+    radial-gradient(circle, white 50%, rgba(51, 51, 51, 0) 50.5%) 49% 75%/0.8% 2%,
+    radial-gradient(circle, white 50%, rgba(51, 51, 51, 0) 50.5%) 51% 75%/0.8% 2%,
+    radial-gradient(ellipse at 169% 108%, white 50%, rgba(51,51,51,0) 50.5%) 43.7% 75.7%/5% 7%,
+    radial-gradient(ellipse at -95% 100%, white 50%, rgba(51,51,51,0) 50.5%) 56.65% 75.7%/5% 7%,
+    radial-gradient(ellipse at 50% 100%, black 50%, rgba(51,51,51,0) 50.5%) 50% 76%/17% 7%,
+    linear-gradient(black, black) 50% 72%/0.3% 23%, linear-gradient(black, black) 50% 77.5%/12% 0.5%,
+    linear-gradient(black, black) 50% 78.2%/9% 0.4%, linear-gradient(white, white) 50% 78.3%/12% 0.8%,
+    repeating-linear-gradient(to bottom,black,black 5px,#FF4500 5px,#FF4500 10px) 48.6% 72%/2.5% 8%,
+    repeating-linear-gradient(to bottom,black,black 5px,#FF4500 5px,#FF4500 10px) 51.5% 72%/2.5% 8%;
+    background-color: #FF8C00;
+    background-repeat: no-repeat;
+}
